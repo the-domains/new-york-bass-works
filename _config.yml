@@ -1,14 +1,14 @@
 layout_spectrum: 0.03583294991403818
 typography_spectrum: 0.9876573318615556
 color:
-  brandStrength: 0.4410261691082269
-  lightness: 0.9485158084426075
-  saturation: 0.604949587257579
-  rhythmicContrast: 0.23345694039016962
+  brandStrength: 0.8525843624956906
+  lightness: 0.10417084977962077
+  saturation: 0.17615347518585622
+  rhythmicContrast: 0.9673897391185164
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: New York Bass Works
