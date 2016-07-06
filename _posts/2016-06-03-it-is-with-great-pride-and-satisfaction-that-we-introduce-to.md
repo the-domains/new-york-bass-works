@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-07-06T21:07:28.376Z'
+datePublished: '2016-07-06T21:24:23.019Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-06T21:06:08.263Z'
+dateModified: '2016-07-06T21:24:15.404Z'
 title: ''
 description: >-
-  It is with great pride and satisfaction that we introduce to the world, theNew
-  York Bass Works Reference Series Bass Guitars.
+  It is with great pride and satisfaction that we introduce to the world, the
+  New York Bass Works Reference Series Bass Guitars.
 starred: false
 inFeed: true
 hasPage: true
@@ -20,7 +20,7 @@ _type: Article
 ![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5ab849-e483-4516-8489-17573e00418b.jpg)
 ![                          New York Bass Works RS-5 Dwayne "DW" Wright Signature Model ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f53bce2deb9fc77b68ca6e5486d8a65016acd8.jpg)
 
-It is with great pride and satisfaction that we introduce to the world, theNew York Bass Works Reference Series Bass Guitars.
+It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars.
 
 These instruments are born from one young man's frustration with the sparse offerings of the early days of extended range basses. The Reference Series Basses are a product of one builder's search for the ultimate in tone and playability in the J bass platform - a platform that has endured for close to 60 years, nearly unchanged. David Segal, an avid collector, restorer, luthier, and professional bass player has had literally hundreds of these instruments under his fingertips. He is one of the few true experts when it comes to understanding what makes a great J bass ...a great J bass. His quest for the "ultimate" in tone and playability culminated in the founding of New York Bass Works, his own guitar company in 1997\.
 
