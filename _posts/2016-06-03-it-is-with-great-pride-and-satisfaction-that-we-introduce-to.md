@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-06T22:23:52.692Z'
+datePublished: '2016-07-08T20:12:40.344Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-06T21:59:22.467Z'
+dateModified: '2016-07-07T23:00:20.096Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -39,6 +39,7 @@ As always, thank you all for your continued interest and dedication over the yea
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FH4rF1kwJK1s%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4rF1kwJK1s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH4rF1kwJK1s%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c65fe19-5741-4a7e-8a62-e9e3c882f769.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b3486d35bec2267d58b07a78c98c0c5e049c480.jpg)
 
 ### Contact info:917-601-1966 email: beezelite@gmail.com
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca6ca0b6c73c9f2806d53a269c9861bfcba545d.jpg)
