@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-09T00:09:55.198Z'
+datePublished: '2016-07-09T00:27:05.914Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-09T00:09:00.133Z'
+dateModified: '2016-07-09T00:21:57.114Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -42,5 +42,4 @@ As always, thank you all for your continued interest and dedication over the yea
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b3486d35bec2267d58b07a78c98c0c5e049c480.jpg)
 
 ### Contact info:917-601-1966 email: beezelite@gmail.com
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ca6ca0b6c73c9f2806d53a269c9861bfcba545d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/662adc7f-fda1-4ed3-a9a4-55cacd62131e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05a21adbb70a1cf35b47ee581a9e4bb42d561e87.jpg)
