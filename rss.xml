@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[New York Bass Works]]></title>
         <description><![CDATA[New York Bass Works]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/new-york-bass-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 01:11:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 19:20:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/new-york-bass-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5ab849-e483-4516-8489-17573e00418b.jpg" alt="Contact: 917-601-1966                                                               Email: beezelite@gmail.com">]]></description>
-            <link>undefinedit-is-with-great-pride-and-satisfaction-that-we-introduce-to/index.html</link>
+            <link>https://thegrid.ai/new-york-bass-works/it-is-with-great-pride-and-satisfaction-that-we-introduce-to/index.html</link>
             <guid isPermaLink="false">eb391c06-531f-4850-985a-e61e676cb33c</guid>
             <pubDate>Sat, 09 Jul 2016 01:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact info: beezelite@gmail.com Ph. 917-601-1966]]></title>
+            <description><![CDATA[<article><h1>Contact info: beezelite@gmail.com Ph. 917-601-1966</h1><p>It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars. These instruments are born from one young man’s frustration with the sparse offerings of the early days of extended range basses. The Reference Series Basses are a product of one builder’s search for the ultimate in tone and playability in the J bass platform - a platform that has endured for close to 60 years, nearly unchanged.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/576cebae-5570-48a3-ad71-b35d9024ea55.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f29bb70-9451-46c2-93d2-47bc075b37f9.jpg</link>
+            <guid isPermaLink="false">73adbf33-5fe8-42c0-bd1c-e4577fb8b808</guid>
+            <pubDate>Sat, 09 Jul 2016 19:20:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
