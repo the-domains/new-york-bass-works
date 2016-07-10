@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-10T01:33:56.969Z'
+datePublished: '2016-07-10T01:55:46.938Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-10T01:16:29.829Z'
+dateModified: '2016-07-10T01:55:21.679Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -31,8 +31,8 @@ Not one to concentrate solely on the sound of the instrument, David has made the
 These are just a few of the many considerations making up the Reference Series Basses, and we look forward to sharing more in the very near future. We are excited as we move forward with the roll out, and begin receiving feedback from our clients who anxiously await their Reference Series basses.
 
 As always, thank you all for your continued interest and dedication over the years, we really appreciate your support!
-![Contact info:www.newyorkbassworks.com  917-601-1966 beezelite@gmail.com](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f5beddb9487a112caf73658f6469fe9de446772.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a331943cb1a88d265b31af616693a7e6691acf94.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f201a3b-cc74-44da-a3b1-6da53b45360b.jpg)
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf70d7291b6b4b07d4b9c5c34f36af59128b28.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7869406666682193bb25e98e450aefc611fd58e4.jpg)
