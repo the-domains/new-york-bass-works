@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-10T02:00:54.503Z'
+datePublished: '2016-07-10T02:10:31.950Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-10T02:00:06.487Z'
+dateModified: '2016-07-10T02:10:21.815Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -32,13 +32,13 @@ These are just a few of the many considerations making up the Reference Series B
 
 As always, thank you all for your continued interest and dedication over the years, we really appreciate your support!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a331943cb1a88d265b31af616693a7e6691acf94.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/29ad1976-ecfd-46da-97d1-c9d391b6aac6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d56218e6ec939ef6a0993173df6c72341035545.jpg)
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf70d7291b6b4b07d4b9c5c34f36af59128b28.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7869406666682193bb25e98e450aefc611fd58e4.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FH4rF1kwJK1s%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4rF1kwJK1s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH4rF1kwJK1s%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5eaea60-facb-49f2-8ecc-585ebfc02674.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9630fcc2-dfb2-4ac5-83d5-045b0c4e5d09.jpg)
 
 Contact info:917-601-1966 email: beezelite@gmail.com
