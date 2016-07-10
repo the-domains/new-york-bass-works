@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T10:34:20.518Z'
+datePublished: '2016-07-10T10:34:22.472Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
