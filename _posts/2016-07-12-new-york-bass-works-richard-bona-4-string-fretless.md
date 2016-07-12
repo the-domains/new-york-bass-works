@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-12T02:43:30.611Z'
+datePublished: '2016-07-12T02:45:46.000Z'
 sourcePath: _posts/2016-07-12-new-york-bass-works-richard-bona-4-string-fretless.md
 author: []
-dateModified: '2016-07-12T02:43:17.437Z'
+dateModified: '2016-07-12T02:45:35.815Z'
 title: NYBW Richard Bona 4 Fretless
 description: >-
   A limited number of these instruments will be available on a first come first
