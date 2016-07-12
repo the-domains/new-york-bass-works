@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-07-10T22:26:55.077Z'
+datePublished: '2016-07-12T03:38:46.703Z'
+sourcePath: _posts/2016-07-10-home-with-dwayne-dw-wright.md
 isBasedOnUrl: 'https://vimeo.com/164164172'
 keywords: []
 related: []
 author:
-  - name: David Beasley
+  - name: NYBW
     url: 'http://vimeo.com/user51516357'
     avatar: {}
-dateModified: '2016-07-10T22:26:34.566Z'
+dateModified: '2016-07-12T03:17:37.547Z'
 title: '@ Home with Dwayne DW Wright'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164164172'
@@ -43,7 +44,6 @@ publisher:
   domain: vimeo.com
 description: ''
 starred: false
-sourcePath: _posts/2016-07-10-home-with-dwayne-dw-wright.md
 inFeed: true
 hasPage: false
 inNav: false
