@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-07-12T03:16:40.214Z'
+datePublished: '2016-07-12T15:31:24.380Z'
 sourcePath: _posts/2016-07-12-new-york-bass-works-richard-bona-4-string-fretless.md
 author: []
-dateModified: '2016-07-12T03:16:28.893Z'
+dateModified: '2016-07-12T15:31:16.479Z'
 title: Limited Edition Customs
 description: >-
   Cremona and Osprey models will be available on a first come first serve basis.
@@ -22,3 +22,4 @@ _type: Article
 # _**Limited Edition Customs**_
 
 Cremona and Osprey models will be available on a first come first serve basis. There are some custom build slots as well as a limited number of master builds available.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822460ed-318e-41a9-a2e5-4fb99dcf9367.jpg)
