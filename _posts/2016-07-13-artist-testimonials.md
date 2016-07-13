@@ -7,8 +7,8 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-13T17:58:34.722Z'
-datePublished: '2016-07-13T17:58:46.772Z'
+dateModified: '2016-07-13T18:01:56.316Z'
+datePublished: '2016-07-13T18:02:02.050Z'
 title: Artist Testimonials
 author: []
 isBasedOnUrl: >-
@@ -37,4 +37,4 @@ This NYBW is the most versatile bass that I have ever played period. When it com
 
 Cheikh Ndoye  
 www.cheikhndoye.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa214fab-2e8d-4ea0-bdf0-621c22ae7874.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b139726e9c1ad7ab916fadca401144ec/croprotate.jpg?cropheight=3300&cropwidth=2549&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Faa214fab-2e8d-4ea0-bdf0-621c22ae7874.jpg&x=0&y=0)
