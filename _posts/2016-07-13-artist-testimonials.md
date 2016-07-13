@@ -7,8 +7,8 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-13T17:56:14.396Z'
-datePublished: '2016-07-13T17:56:22.728Z'
+dateModified: '2016-07-13T17:58:34.722Z'
+datePublished: '2016-07-13T17:58:46.772Z'
 title: Artist Testimonials
 author: []
 isBasedOnUrl: >-
@@ -32,9 +32,9 @@ Dave!
 
 Mark Verdino NYC Bassist, Jersey Boys 1st National Tour.  
 www.markverdino.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0926cfb0-d35c-4245-b45d-e3b8be8ee673.jpg)
 
 This NYBW is the most versatile bass that I have ever played period. When it comes to tone, intonation, action, presence, clarity, depth and consistency you can't ask for anything more. It is quite simply the best! I can't thank David enough for taking the time to get this out to me. Part of the reason why David Segal makes the best basses is probably due to the fact that he is an amazing bassist who has the gift and skill to translate his understanding of what a bass player needs into building an instrument that feels like it is an extension of one's self. David will go the extra mile to make sure you get the right axe, something that is a work of art and craftsmanship. It's an honor to be part of the NYBW family.
 
 Cheikh Ndoye  
 www.cheikhndoye.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa214fab-2e8d-4ea0-bdf0-621c22ae7874.jpg)
