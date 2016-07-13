@@ -7,21 +7,21 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-13T17:44:56.150Z'
-datePublished: '2016-07-13T17:46:00.004Z'
+dateModified: '2016-07-13T17:56:14.396Z'
+datePublished: '2016-07-13T17:56:22.728Z'
 title: Artist Testimonials
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc3076d3-5c05-40eb-96e1-c65f63f979ff.jpg
-starred: false
 sourcePath: _posts/2016-07-13-artist-testimonials.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3417092d-f80d-4b45-97ca-b566d1991f19.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3673fcab50a27611098f27de95780878/croprotate.jpg?cropheight=4001&cropwidth=6000&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F48bedb9b-df84-450e-8158-6ada79f296ec.jpg&x=0&y=0)
 
 # Artist Testimonials
 
@@ -32,3 +32,9 @@ Dave!
 
 Mark Verdino NYC Bassist, Jersey Boys 1st National Tour.  
 www.markverdino.com
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0926cfb0-d35c-4245-b45d-e3b8be8ee673.jpg)
+
+This NYBW is the most versatile bass that I have ever played period. When it comes to tone, intonation, action, presence, clarity, depth and consistency you can't ask for anything more. It is quite simply the best! I can't thank David enough for taking the time to get this out to me. Part of the reason why David Segal makes the best basses is probably due to the fact that he is an amazing bassist who has the gift and skill to translate his understanding of what a bass player needs into building an instrument that feels like it is an extension of one's self. David will go the extra mile to make sure you get the right axe, something that is a work of art and craftsmanship. It's an honor to be part of the NYBW family.
+
+Cheikh Ndoye  
+www.cheikhndoye.com
