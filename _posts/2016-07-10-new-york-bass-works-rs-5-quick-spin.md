@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-15T18:35:22.731Z'
+datePublished: '2016-07-15T19:18:07.238Z'
 sourcePath: _posts/2016-07-10-new-york-bass-works-rs-5-quick-spin.md
 isBasedOnUrl: 'https://vimeo.com/171929457'
 keywords: []
@@ -8,8 +8,8 @@ author:
   - name: David Beasley
     url: 'http://vimeo.com/user51516357'
     avatar: {}
-dateModified: '2016-07-15T18:30:56.321Z'
-title: New York Bass Works RS-5 Quick spin
+dateModified: '2016-07-15T19:17:22.657Z'
+title: New York Bass Works RS5 Quick spin
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/171929457'
     type: ios
