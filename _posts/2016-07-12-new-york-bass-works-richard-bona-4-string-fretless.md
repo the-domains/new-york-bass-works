@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-12T16:01:06.940Z'
+datePublished: '2016-07-15T13:50:05.965Z'
 sourcePath: _posts/2016-07-12-new-york-bass-works-richard-bona-4-string-fretless.md
 author: []
-dateModified: '2016-07-12T16:01:03.478Z'
+dateModified: '2016-07-15T13:50:05.671Z'
 title: Limited Edition Customs
 description: >-
   Cremona and Osprey models will be available on a first come first serve basis.
   There are some custom build slots as well as a limited number of master builds
   available.
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
-url: new-york-bass-works-richard-bona-4-string-fretless/index.html
+url: limited-edition-customs/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -24,3 +24,7 @@ _type: Article
 Cremona and Osprey models will be available on a first come first serve basis. There are some custom build slots as well as a limited number of master builds available.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/822460ed-318e-41a9-a2e5-4fb99dcf9367.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62261a3a-630a-4c77-be6f-7731ece51772.jpg)
+
+For Custom sales : 516-799-5160 email: nybw@aol.com
+
+Reference Series Bass sales info : 917-601-1966 email : beezelite@gmail.com
