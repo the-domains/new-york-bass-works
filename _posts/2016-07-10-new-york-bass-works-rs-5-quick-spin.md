@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-12T03:17:43.767Z'
+datePublished: '2016-07-15T18:14:22.106Z'
 sourcePath: _posts/2016-07-10-new-york-bass-works-rs-5-quick-spin.md
 isBasedOnUrl: 'https://vimeo.com/171929457'
 keywords: []
@@ -8,7 +8,7 @@ author:
   - name: David Beasley
     url: 'http://vimeo.com/user51516357'
     avatar: {}
-dateModified: '2016-07-12T03:17:14.920Z'
+dateModified: '2016-07-15T18:14:14.326Z'
 title: New York Bass Works RS-5 Quick spin
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/171929457'
@@ -42,7 +42,7 @@ publisher:
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
-description: New York Bass Works RS-5 ader/rosewood combination. www.newyorkbassworks.com
+description: New York Bass Works RS-5 Alder/Rosewood combination.
 starred: false
 inFeed: true
 hasPage: false
