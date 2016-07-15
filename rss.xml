@@ -4,7 +4,7 @@
         <description><![CDATA[New York Bass Works]]></description>
         <link>https://thegrid.ai/new-york-bass-works/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 15:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 15:25:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/new-york-bass-works/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/new-york-bass-works/it-is-with-great-pride-and-satisfaction-that-we-introduce-to/index.html</link>
             <guid isPermaLink="false">eb391c06-531f-4850-985a-e61e676cb33c</guid>
             <pubDate>Fri, 15 Jul 2016 15:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ash/maple RS5 Slap ( Bass Only) George Panos on bass by New York Bass Works]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cef7364d-3301-4286-917a-805be738dab4.jpg">]]></description>
-            <link>https://soundcloud.com/david-beasley/ashmaple-rs5-slap-bass-only</link>
-            <guid isPermaLink="false">cfc93221-f7bf-4053-9aa8-1f40f002871f</guid>
-            <pubDate>Fri, 15 Jul 2016 15:25:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Limited Edition Customs]]></title>
@@ -54,6 +47,13 @@
             <link>https://soundcloud.com/david-beasley/ash-maple-rs5-slap-w-drums</link>
             <guid isPermaLink="false">1d553e7f-f8fb-4b37-bbf8-727e2d28e395</guid>
             <pubDate>Tue, 12 Jul 2016 00:33:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ash/maple RS5 Slap ( Bass Only) George Panos on bass by New York Bass Works]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cef7364d-3301-4286-917a-805be738dab4.jpg">]]></description>
+            <link>https://soundcloud.com/david-beasley/ashmaple-rs5-slap-bass-only</link>
+            <guid isPermaLink="false">cfc93221-f7bf-4053-9aa8-1f40f002871f</guid>
+            <pubDate>Tue, 12 Jul 2016 00:12:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
