@@ -7,8 +7,8 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-15T19:19:54.892Z'
-datePublished: '2016-07-15T19:28:08.862Z'
+dateModified: '2016-07-15T23:58:15.538Z'
+datePublished: '2016-07-15T23:58:19.637Z'
 title: Testimonials
 author: []
 sourcePath: _posts/2016-07-15-testimonials.md
@@ -19,7 +19,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# _**Testimonials**_
+# **Testimonials**
 
 Dave's basses are second to none. His meticulous attention to detail makes his instruments very comfortable, perfectly balanced and a joy to play. The construction is top notch and the tone is unbeatable. I am constantly being complimented on the sound and the beauty of the instruments. Besides being such a great work of art, his basses will deliver consistently show after show, I never have to worry about them delivering what I need. Simply put they are the best basses available.
 
