@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-15T15:42:53.004Z'
+datePublished: '2016-07-15T15:43:13.318Z'
 sourcePath: _posts/2016-07-12-ashmaple-rs5-slap-bass-only-george-panos-on-bass-by-new.md
 isBasedOnUrl: 'https://soundcloud.com/david-beasley/ashmaple-rs5-slap-bass-only'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-15T15:42:52.752Z'
+dateModified: '2016-07-15T15:43:12.925Z'
 title: ''
 app_links:
   - type: ios
@@ -50,7 +50,7 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
