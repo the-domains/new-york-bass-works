@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-15T15:42:28.833Z'
+datePublished: '2016-07-15T15:43:02.240Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-15T15:42:22.876Z'
+dateModified: '2016-07-15T15:43:01.861Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
   New York Bass Works Reference Series Bass Guitars.
-starred: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
