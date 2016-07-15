@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-15T16:17:16.980Z'
+datePublished: '2016-07-15T16:21:24.925Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 author: []
-dateModified: '2016-07-15T16:17:09.843Z'
+dateModified: '2016-07-15T16:21:14.258Z'
 title: ''
 description: >-
   It is with great pride and satisfaction that we introduce to the world, the
@@ -36,6 +36,7 @@ As always, thank you all for your continued interest and dedication over the yea
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf70d7291b6b4b07d4b9c5c34f36af59128b28.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7869406666682193bb25e98e450aefc611fd58e4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66adb60b-cbb8-411d-a659-3950f304ec00.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9630fcc2-dfb2-4ac5-83d5-045b0c4e5d09.jpg)
 
 Reference Series info: 917-601-1966 email: beezelite@gmail.com
