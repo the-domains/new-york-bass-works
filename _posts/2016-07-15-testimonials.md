@@ -7,12 +7,12 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-15T15:58:57.437Z'
-datePublished: '2016-07-15T15:59:10.260Z'
+dateModified: '2016-07-15T16:14:17.949Z'
+datePublished: '2016-07-15T16:14:29.142Z'
 title: Testimonials
 author: []
-starred: false
 sourcePath: _posts/2016-07-15-testimonials.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
