@@ -1,4 +1,3 @@
-layout_spectrum: 0.41065695392899215
 typography_spectrum: 0.9760488651227206
 color:
   brandStrength: 0.02072698506526649
@@ -11,7 +10,10 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-name: New York Bass Works
+layout_spectrum: 0.41065695392899215
+analytics:
+  facebook: '212457149155465'
 author:
   name: David Beasley
   email: nybwgridwork@gmail.com
+name: New York Bass Works
