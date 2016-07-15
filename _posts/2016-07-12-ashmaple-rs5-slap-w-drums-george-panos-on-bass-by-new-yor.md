@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-15T15:42:56.874Z'
+datePublished: '2016-07-15T15:43:16.230Z'
 sourcePath: _posts/2016-07-12-ashmaple-rs5-slap-w-drums-george-panos-on-bass-by-new-yor.md
 isBasedOnUrl: 'https://soundcloud.com/david-beasley/ash-maple-rs5-slap-w-drums'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-15T15:42:56.618Z'
+dateModified: '2016-07-15T15:43:15.858Z'
 title: ''
 app_links:
   - type: ios
@@ -50,7 +50,7 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: ''
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
