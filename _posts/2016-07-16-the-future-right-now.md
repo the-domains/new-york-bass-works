@@ -1,7 +1,7 @@
 ---
-description: 'Custom sales: 516-799-5160 email: nybwaol.com'
-dateModified: '2016-07-16T19:49:49.467Z'
-datePublished: '2016-07-16T19:50:01.666Z'
+description: 'Custom sales: 516-799-5160 email: nybw@aol.com'
+dateModified: '2016-07-16T19:50:28.928Z'
+datePublished: '2016-07-16T19:50:33.280Z'
 title: The Future Right Now
 author: []
 isBasedOnUrl: >-
@@ -18,6 +18,6 @@ _type: MediaObject
 
 # The Future Right Now
 
-Custom sales: 516-799-5160 email: nybwaol.com
+Custom sales: 516-799-5160 email: nybw@aol.com
 
 Reference Series sales: 917-601-1966 email: beezelite@gmail.com
