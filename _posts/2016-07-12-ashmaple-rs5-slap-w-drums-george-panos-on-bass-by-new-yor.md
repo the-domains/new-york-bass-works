@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-15T19:30:33.391Z'
+datePublished: '2016-07-16T00:11:04.354Z'
 sourcePath: _posts/2016-07-12-ashmaple-rs5-slap-w-drums-george-panos-on-bass-by-new-yor.md
 isBasedOnUrl: 'https://soundcloud.com/david-beasley/ash-maple-rs5-slap-w-drums'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-15T19:20:01.132Z'
+dateModified: '2016-07-16T00:10:59.148Z'
 title: ''
 app_links:
   - type: ios
@@ -58,6 +58,6 @@ _context: 'http://schema.org'
 _type: AudioObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e70175d8-6eae-4069-864e-c392d5de1d37.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3e5db6a3425cfe64ab625301b5f15485/croprotate.jpg?cropheight=2308&cropwidth=4267&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fe70175d8-6eae-4069-864e-c392d5de1d37.jpg&x=0&y=433)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816515%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fash-maple-rs5-slap-w-drums&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862613-830gts-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
