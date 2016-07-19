@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-16T00:27:52.235Z'
+datePublished: '2016-07-18T21:37:10.702Z'
 sourcePath: _posts/2016-07-12-ashmaple-rs5-slap-w-drums-george-panos-on-bass-by-new-yor.md
 isBasedOnUrl: 'https://soundcloud.com/david-beasley/ash-maple-rs5-slap-w-drums'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-16T00:17:44.663Z'
+dateModified: '2016-07-18T21:36:05.863Z'
 title: ''
 app_links:
   - type: ios
