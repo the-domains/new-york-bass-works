@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T21:05:51.540Z'
+datePublished: '2016-07-29T21:11:17.471Z'
 sourcePath: _posts/2016-07-29-videoaudio.md
 isBasedOnUrl: 'https://youtu.be/H4rF1kwJK1s'
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/beezelite'
     avatar: {}
 via: {}
-dateModified: '2016-07-29T21:05:51.138Z'
+dateModified: '2016-07-29T21:11:17.052Z'
 title: Video/Audio
 app_links: []
 publisher:
@@ -34,6 +34,7 @@ _type: VideoObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FH4rF1kwJK1s%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4rF1kwJK1s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH4rF1kwJK1s%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
+## @Home with New York Bass Works Artist Dwayne "DW" Wright
 ![https://vimeo.com/164164172](https://s3-us-west-2.amazonaws.com/the-grid-img/p/255f73f022c7f313d70fc2fc6d65307972bbce61.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F164164172&amp;url=https%3A%2F%2Fvimeo.com%2F164164172&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F567723655_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
@@ -45,6 +46,6 @@ _type: VideoObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816515%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fash-maple-rs5-slap-w-drums&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862613-830gts-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb0623d-a32b-49be-b812-28fa7a45ea5b.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/34970139dd1032e497531fdd490f3f56/croprotate.jpg?cropheight=2308&cropwidth=4267&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4fb0623d-a32b-49be-b812-28fa7a45ea5b.jpg&x=0&y=433)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816234%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fashmaple-rs5-slap-bass-only&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862140-m3kjnr-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
