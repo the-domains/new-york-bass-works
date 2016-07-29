@@ -1,7 +1,6 @@
 ---
-datePublished: '2016-07-29T21:27:04.443Z'
+datePublished: '2016-07-29T21:27:28.883Z'
 sourcePath: _posts/2016-07-29-videoaudio.md
-isBasedOnUrl: 'https://youtu.be/H4rF1kwJK1s'
 keywords: []
 related: []
 author:
@@ -9,7 +8,7 @@ author:
     url: 'https://www.youtube.com/user/beezelite'
     avatar: {}
 via: {}
-dateModified: '2016-07-29T21:27:03.981Z'
+dateModified: '2016-07-29T21:27:26.838Z'
 title: Video/Audio
 app_links: []
 publisher:
@@ -18,10 +17,9 @@ publisher:
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
 description: With drums
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: videoaudio/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
