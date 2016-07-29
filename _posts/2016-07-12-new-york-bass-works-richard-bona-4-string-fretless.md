@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-07-29T21:50:02.103Z'
+datePublished: '2016-07-29T21:52:06.023Z'
 sourcePath: _posts/2016-07-12-new-york-bass-works-richard-bona-4-string-fretless.md
 author: []
 via: {}
-dateModified: '2016-07-29T21:50:01.747Z'
+dateModified: '2016-07-29T21:52:05.620Z'
 title: Custom Shop
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ _type: Article
 
 ---
 # Custom Shop
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f105407f2c973dc4074bf90fa980ac2e/croprotate.jpg?cropheight=2831&cropwidth=5833&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8aa8efda-a872-4468-8dd2-bac6cd265cc2.jpg&x=0&y=0)
+![Custom Shop](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f105407f2c973dc4074bf90fa980ac2e/croprotate.jpg?cropheight=2831&cropwidth=5833&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8aa8efda-a872-4468-8dd2-bac6cd265cc2.jpg&x=0&y=0)
 
 # _**Limited Edition Customs**_
 
