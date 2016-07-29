@@ -63,16 +63,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/H4rF1kwJK1s'
 title: New York Bass Works Artist Joshua "Swing" Lozada interview Part 1
-datePublished: '2016-07-16T00:25:05.547Z'
-dateModified: '2016-07-16T00:17:36.741Z'
+datePublished: '2016-07-29T14:23:30.797Z'
+dateModified: '2016-07-29T14:23:30.276Z'
 sourcePath: >-
   _posts/2016-07-15-new-york-bass-works-artist-joshua-swing-lozada-interview-p.md
+hasPage: true
+via: {}
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: new-york-bass-works-artist-joshua-swing-lozada-interview-p/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
