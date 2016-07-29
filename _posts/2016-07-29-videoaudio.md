@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-29T21:00:25.281Z'
+datePublished: '2016-07-29T21:05:51.540Z'
+sourcePath: _posts/2016-07-29-videoaudio.md
 isBasedOnUrl: 'https://youtu.be/H4rF1kwJK1s'
 keywords: []
 related: []
@@ -8,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/beezelite'
     avatar: {}
 via: {}
-dateModified: '2016-07-29T20:59:52.789Z'
+dateModified: '2016-07-29T21:05:51.138Z'
 title: Video/Audio
 app_links: []
 publisher:
@@ -22,7 +23,6 @@ description: >-
   Gospel superstar, Ingrid Rosario, Josh demonstrates the sounds that he uses to
   get the job done!
 starred: false
-sourcePath: _posts/2016-07-29-videoaudio.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -44,5 +44,7 @@ _type: VideoObject
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef4d8d5c-a381-448c-88ea-1c5c215edfeb.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816515%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fash-maple-rs5-slap-w-drums&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862613-830gts-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4fb0623d-a32b-49be-b812-28fa7a45ea5b.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816234%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fashmaple-rs5-slap-bass-only&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862140-m3kjnr-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
