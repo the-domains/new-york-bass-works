@@ -1,4 +1,11 @@
 ---
+datePublished: '2016-07-29T21:24:27.227Z'
+sourcePath: _posts/2016-07-15-testimonials.md
+author: []
+via: {}
+dateModified: '2016-07-29T21:24:26.922Z'
+title: Testimonials
+publisher: {}
 description: >-
   Dave’s basses are second to none. His meticulous attention to detail makes his
   instruments very comfortable, perfectly balanced and a joy to play. The
@@ -7,13 +14,6 @@ description: >-
   such a great work of art, his basses will deliver consistently show after
   show, I never have to worry about them delivering what I need. Simply put they
   are the best basses available.
-dateModified: '2016-07-29T15:15:27.548Z'
-datePublished: '2016-07-29T15:37:43.783Z'
-title: Testimonials
-author: []
-sourcePath: _posts/2016-07-15-testimonials.md
-publisher: {}
-via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -58,8 +58,7 @@ There isn't much to add to what has already been said by many others. The crafts
 
 Best Always,
 
-Brian  
-PS: I'll give you a call soon.
+Brian
 
 **Brian Reihms   
 Virginia, USA  
