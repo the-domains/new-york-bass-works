@@ -17,12 +17,6 @@ author:
   name: David Beasley
   email: nybwgridwork@gmail.com
 name: New York Bass Works
-navigation:
-  - name: Video
-    id: 73521a85-2f03-47fd-9972-6591459338ce
-    type: content
-  - name: Video
-    id: 7c4ecea0-a1df-402a-8e41-623ab766cc80
-    type: content
+navigation: []
 title: Higher Performance
 description: Compromise Is Not One Of Our Options
