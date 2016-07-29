@@ -1,6 +1,7 @@
 ---
-datePublished: '2016-07-29T21:27:28.883Z'
+datePublished: '2016-07-29T21:36:24.185Z'
 sourcePath: _posts/2016-07-29-videoaudio.md
+hasPage: true
 keywords: []
 related: []
 author:
@@ -8,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/beezelite'
     avatar: {}
 via: {}
-dateModified: '2016-07-29T21:27:26.838Z'
+dateModified: '2016-07-29T21:36:22.618Z'
 title: Video/Audio
 app_links: []
 publisher:
@@ -16,8 +17,11 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-description: With drums
-hasPage: true
+description: >-
+  Joshua "Swing "Lozada takes us on a tour of his New York Bass Works Reference
+  Series 5 string bass. On a two week break from the road and studio with Latin
+  Gospel superstar, Ingrid Rosario, Josh demonstrates the sounds that he uses to
+  get the job done!
 starred: false
 url: videoaudio/index.html
 _context: 'http://schema.org'
@@ -40,9 +44,6 @@ _type: VideoObject
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816515%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fash-maple-rs5-slap-w-drums&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862613-830gts-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-With drums
-![New York Bass Works Reference Series Basses Ash body/ Maple neck w/George Panos](https://s3-us-west-2.amazonaws.com/the-grid-img/p/860ca17cbd67983f3ad59ed6fb4a713386585b31.jpg)
+![NYBW  Reference Series Basses Ash body/ Maple neck  George Panos on bass w/o drums](https://s3-us-west-2.amazonaws.com/the-grid-img/p/860ca17cbd67983f3ad59ed6fb4a713386585b31.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816234%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fashmaple-rs5-slap-bass-only&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862140-m3kjnr-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-No drums
