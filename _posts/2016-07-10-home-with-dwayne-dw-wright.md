@@ -1,13 +1,15 @@
 ---
-datePublished: '2016-07-29T14:19:19.007Z'
+datePublished: '2016-07-29T15:07:11.186Z'
 sourcePath: _posts/2016-07-10-home-with-dwayne-dw-wright.md
+hasPage: true
 keywords: []
 related: []
 author:
   - name: NYBW
     url: 'http://vimeo.com/user51516357'
     avatar: {}
-dateModified: '2016-07-29T14:19:18.671Z'
+via: {}
+dateModified: '2016-07-29T15:07:10.776Z'
 title: '@ Home with New York Bass Works Artist Dwayne "DW" Wright'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164164172'
@@ -37,13 +39,11 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 publisher:
-  url: 'https://vimeo.com/'
+  url: 'https://vimeo.com/https://vimeo.com/164164172'
   name: Vimeo
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 description: ''
-hasPage: true
-via: {}
 starred: false
 url: home-with-new-york-bass-works-artist-dwayne-dw-wright/index.html
 _context: 'http://schema.org'
