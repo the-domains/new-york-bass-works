@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-29T15:07:11.186Z'
+datePublished: '2016-07-29T15:09:04.883Z'
 sourcePath: _posts/2016-07-10-home-with-dwayne-dw-wright.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'http://vimeo.com/user51516357'
     avatar: {}
 via: {}
-dateModified: '2016-07-29T15:07:10.776Z'
+dateModified: '2016-07-29T15:09:04.501Z'
 title: '@ Home with New York Bass Works Artist Dwayne "DW" Wright'
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/164164172'
