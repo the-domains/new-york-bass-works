@@ -21,5 +21,8 @@ navigation:
   - name: Media
     id: 48741be1-e038-4185-b8a0-99f479eb0b66
     type: content
+  - name: Reference Series Basses
+    id: eb391c06-531f-4850-985a-e61e676cb33c
+    type: content
 title: New York Bass Works
 description: Compromise is not one of our options
