@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T13:12:29.752Z'
+datePublished: '2016-08-03T13:17:08.947Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T13:12:28.988Z'
+dateModified: '2016-08-03T13:17:08.442Z'
 title: ''
 publisher: {}
 description: >-
@@ -52,8 +52,10 @@ As always, thank you all for your continued interest and dedication over the yea
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F171929457&amp;url=https%3A%2F%2Fvimeo.com%2F171929457&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F577506018_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 # Audio
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f27df18-dd07-4c0d-80ae-8d7d5f8ee920.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5f0d0324d17c6d260dc937b4e7b7d5c4/croprotate.jpg?cropheight=2201&cropwidth=4267&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4f27df18-dd07-4c0d-80ae-8d7d5f8ee920.jpg&x=0&y=492)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816234%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fashmaple-rs5-slap-bass-only&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862140-m3kjnr-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cec5f18-8cca-4ea9-a01b-bb612fde82e6.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Ftracks%252F259816515%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fdavid-beasley%2Fash-maple-rs5-slap-w-drums&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000158862613-830gts-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
