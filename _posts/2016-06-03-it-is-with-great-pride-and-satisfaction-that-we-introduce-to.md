@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T13:01:59.754Z'
+datePublished: '2016-08-03T13:05:38.327Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T13:01:59.295Z'
+dateModified: '2016-08-03T13:05:37.794Z'
 title: ''
 publisher: {}
 description: >-
@@ -50,8 +50,6 @@ As always, thank you all for your continued interest and dedication over the yea
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F164164172&amp;url=https%3A%2F%2Fvimeo.com%2F164164172&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F567723655_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F171929457&amp;url=https%3A%2F%2Fvimeo.com%2F171929457&amp;image=http%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F577506018_1280.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9630fcc2-dfb2-4ac5-83d5-045b0c4e5d09.jpg)
 
 Reference Series info: 917-601-1966 email: beezelite@gmail.com
 
