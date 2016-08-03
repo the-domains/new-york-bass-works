@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T14:12:31.817Z'
+datePublished: '2016-08-03T18:09:59.891Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T14:11:58.206Z'
+dateModified: '2016-08-03T18:08:47.426Z'
 title: ''
 publisher: {}
 description: >-
@@ -112,3 +112,4 @@ Brian
 **Brian Reihms   
 Virginia, USA  
 NYBW Fretless Deep Jazz 6**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cf94cc-73e7-4344-96cc-5b2c66f56139.jpg)
