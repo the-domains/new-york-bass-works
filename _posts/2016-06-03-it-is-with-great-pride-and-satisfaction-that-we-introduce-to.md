@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T13:55:28.034Z'
+datePublished: '2016-08-03T14:07:41.509Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T13:55:27.467Z'
+dateModified: '2016-08-03T14:07:40.779Z'
 title: ''
 publisher: {}
 description: >-
@@ -63,9 +63,9 @@ As always, thank you all for your continued interest and dedication over the yea
 # **Limited Edition Customs**
 
 Cremona and Osprey models will be available on a first come first serve basis. There are some in process build slots as well as a limited number of master builds available. Please feel free to inquire about one of these exceptional instruments!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bb6cc8c-dd6f-4bf7-89ac-db22d1a8f024.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c87aae-9fc3-443c-ba1a-db058f161daf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8bd6412-b6ac-4998-9c12-d4dd85e40a05.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e93580f2b1752d13790bcd7b2b8784f54ac459.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4623cd-d262-4406-96d6-8fc878bbdf6d.jpg)
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/96c8beb249e6a4f9bd8e9aab481159b8/croprotate.jpg?cropheight=2122&cropwidth=2754&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fcdad429e-6b2f-4c1a-9f44-b0a73f51cbf8.jpg&x=0&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/caea3db0b18a15726c7e99a15c1e0a63a2544f5e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97631fae-5be3-42aa-af3e-8e9a8c7546e6.jpg)
