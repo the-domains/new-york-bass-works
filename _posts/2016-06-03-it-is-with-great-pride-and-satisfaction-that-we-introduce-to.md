@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T18:09:59.891Z'
+datePublished: '2016-08-03T18:24:51.738Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T18:08:47.426Z'
+dateModified: '2016-08-03T18:24:51.195Z'
 title: ''
 publisher: {}
 description: >-
@@ -113,3 +113,13 @@ Brian
 Virginia, USA  
 NYBW Fretless Deep Jazz 6**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cf94cc-73e7-4344-96cc-5b2c66f56139.jpg)
+
+# Contact
+
+Sales: beezelite@gmail.com ph\# 917-601-1966
+
+General info: nybw@aol.com ph\# 516-799-5160
+
+please contact to make an appointment
+
+178 N Beech St, Massapequa, NY 11758
