@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-03T18:24:51.738Z'
+datePublished: '2016-08-07T22:21:46.466Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-03T18:24:51.195Z'
+dateModified: '2016-08-07T22:21:45.765Z'
 title: ''
 publisher: {}
 description: >-
@@ -97,9 +97,9 @@ www.cheikhndoye.com
 The bass arrived safely and in one piece :-) and what can i say... i'm lacking of words. it's an awesome instrument. i felt comfortable from the first second although i've never played a 34.5" scale. it is so well balanced seated and standing it looks amazing and of course it sounds great. i had the chance to use it on a concert on friday for the first time for a kind of world music band where I'm subbing from time to time and everbody was extremly happy. the sound engineer said he had to do nothing just open the channel :-) i was using my walter woods eq flat and epifani 112 (the bass was played passive,tone control between quarter and half open) and i've been so happy on stage in every setting. i could always hear myself and i could always find a sound that fit the song. from a slow emotional ballad to funky james brown grooves. so what more can i say than thank you thank you thank  
 you... it was worth waiting the time...
 
-**Christian Wendt  
-Austria, Eu.  
-NYBW Fretless Cremona 5**
+**Christian Wendt**  
+**Austria, Eu.**  
+**NYBW Fretless Cremona 5**
 
 Hey David,
 
@@ -109,9 +109,9 @@ Best Always,
 
 Brian
 
-**Brian Reihms   
-Virginia, USA  
-NYBW Fretless Deep Jazz 6**
+**Brian Reihms **  
+**Virginia, USA**  
+**NYBW Fretless Deep Jazz 6**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2cf94cc-73e7-4344-96cc-5b2c66f56139.jpg)
 
 # Contact
