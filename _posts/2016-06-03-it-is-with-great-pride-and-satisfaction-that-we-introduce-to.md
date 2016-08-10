@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T10:57:56.328Z'
+datePublished: '2016-08-10T11:02:42.542Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-10T10:57:55.649Z'
+dateModified: '2016-08-10T11:02:41.631Z'
 title: ''
 publisher: {}
 description: >-
