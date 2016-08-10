@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-07T22:21:46.466Z'
+datePublished: '2016-08-10T10:44:46.209Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-07T22:21:45.765Z'
+dateModified: '2016-08-10T10:44:45.351Z'
 title: ''
 publisher: {}
 description: >-
@@ -69,6 +69,7 @@ Cremona and Osprey models will be available on a first come first serve basis. T
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4623cd-d262-4406-96d6-8fc878bbdf6d.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/caea3db0b18a15726c7e99a15c1e0a63a2544f5e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97631fae-5be3-42aa-af3e-8e9a8c7546e6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7012cb71-d668-4f74-b7e7-9a510e29db49.jpg)
 
 # **Testimonials**
 
