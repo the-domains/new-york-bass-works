@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-10T11:02:42.542Z'
+datePublished: '2016-08-11T12:36:41.518Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-10T11:02:41.631Z'
+dateModified: '2016-08-11T12:36:40.709Z'
 title: ''
 publisher: {}
 description: >-
@@ -44,6 +44,8 @@ As always, thank you all for your continued interest and dedication over the yea
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/514a49bcec12b8e8f93c8d557d967178eca160db.jpg)
 
 # Media
+
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FsY_gN1ANKtY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsY_gN1ANKtY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FsY_gN1ANKtY%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FH4rF1kwJK1s%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4rF1kwJK1s&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FH4rF1kwJK1s%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
