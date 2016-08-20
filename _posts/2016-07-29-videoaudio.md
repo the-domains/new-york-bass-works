@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:02:53.669Z'
+datePublished: '2016-08-20T13:05:21.811Z'
 sourcePath: _posts/2016-07-29-videoaudio.md
 hasPage: true
 keywords: []
@@ -9,7 +9,7 @@ author:
     url: 'https://www.youtube.com/user/beezelite'
     avatar: {}
 via: {}
-dateModified: '2016-08-03T11:35:31.357Z'
+dateModified: '2016-08-20T13:05:21.368Z'
 title: Video/Audio
 app_links: []
 publisher:
