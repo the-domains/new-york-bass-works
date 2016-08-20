@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T15:44:58.814Z'
+datePublished: '2016-08-20T15:50:40.916Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T15:44:58.244Z'
+dateModified: '2016-08-20T15:50:40.491Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -35,11 +35,11 @@ Not one to concentrate solely on the sound of the instrument, David has made the
 These are just a few of the many considerations making up the Reference Series Basses, and we look forward to sharing more in the very near future. We are excited as we move forward with the roll out, and begin receiving feedback from our clients who anxiously await their Reference Series basses.
 
 As always, thank you all for your continued interest and dedication over the years, we really appreciate your support!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d56218e6ec939ef6a0993173df6c72341035545.jpg)
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf70d7291b6b4b07d4b9c5c34f36af59128b28.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60530cf0-f88f-46bc-9976-bee35bcfc960.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7869406666682193bb25e98e450aefc611fd58e4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01afdcb7-c1d1-4937-8551-269093a52299.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/514a49bcec12b8e8f93c8d557d967178eca160db.jpg)
 
 # Video
