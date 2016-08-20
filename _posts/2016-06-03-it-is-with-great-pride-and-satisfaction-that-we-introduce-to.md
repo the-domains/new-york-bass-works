@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:13:34.490Z'
+datePublished: '2016-08-20T13:19:37.936Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T13:13:33.498Z'
+dateModified: '2016-08-20T13:19:37.166Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f5ab849-e483-4516-8489-17573e00418b.jpg)
+![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1f8798-0921-409f-9929-672333911ae5.jpg)
 ![                          New York Bass Works RS-5 Dwayne "DW" Wright Signature Model ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f53bce2deb9fc77b68ca6e5486d8a65016acd8.jpg)
 
 It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars.
