@@ -17,5 +17,9 @@ author:
   name: David Beasley
   email: nybwgridwork@gmail.com
 name: New York Bass Works LLC
+navigation:
+  - name: What We Do
+    id: eb391c06-531f-4850-985a-e61e676cb33c
+    type: content
 title: New York Bass Works
 description: Compromise is not one of our options
