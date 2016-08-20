@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T14:05:23.108Z'
+datePublished: '2016-08-20T14:21:50.032Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T14:05:22.043Z'
+dateModified: '2016-08-20T14:21:49.188Z'
 title: ''
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/66265e4d-e277-4f85-8bfe-2cee8c1ac10b.jpg)
+![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/692beda3-30ea-40f3-acee-324e3b9baae1.jpg)
 
 It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars.
 
