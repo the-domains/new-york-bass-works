@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T13:19:37.936Z'
+datePublished: '2016-08-20T13:24:34.780Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T13:19:37.166Z'
+dateModified: '2016-08-20T13:24:34.296Z'
 title: ''
 publisher: {}
 description: >-
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 ![Contact: 917-601-1966                                                               Email: beezelite@gmail.com](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d1f8798-0921-409f-9929-672333911ae5.jpg)
-![                          New York Bass Works RS-5 Dwayne "DW" Wright Signature Model ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6f53bce2deb9fc77b68ca6e5486d8a65016acd8.jpg)
 
 It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars.
 
@@ -40,6 +39,7 @@ As always, thank you all for your continued interest and dedication over the yea
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d56218e6ec939ef6a0993173df6c72341035545.jpg)
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eacf70d7291b6b4b07d4b9c5c34f36af59128b28.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60530cf0-f88f-46bc-9976-bee35bcfc960.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7869406666682193bb25e98e450aefc611fd58e4.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/514a49bcec12b8e8f93c8d557d967178eca160db.jpg)
 
