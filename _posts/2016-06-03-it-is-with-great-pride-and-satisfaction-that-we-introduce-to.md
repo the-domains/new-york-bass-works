@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T15:50:40.916Z'
+datePublished: '2016-08-23T00:07:01.008Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-20T15:50:40.491Z'
+dateModified: '2016-08-23T00:07:00.566Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -22,7 +22,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/006ffdba-76ba-4015-9128-afce27456c90.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45e9b27e-f75a-4240-bc31-65f4cd0d5559.jpg)
 
 It is with great pride and satisfaction that we introduce to the world, the New York Bass Works Reference Series Bass Guitars.
 
