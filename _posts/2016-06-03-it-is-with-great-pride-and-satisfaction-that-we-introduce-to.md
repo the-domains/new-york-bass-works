@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T00:07:01.008Z'
+datePublished: '2016-08-23T00:10:19.030Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T00:07:00.566Z'
+dateModified: '2016-08-23T00:10:18.401Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -63,7 +63,6 @@ As always, thank you all for your continued interest and dedication over the yea
 # **Limited Edition Customs**
 
 Cremona and Osprey models will be available on a first come first serve basis. There are some in process build slots as well as a limited number of master builds available. Please feel free to inquire about one of these exceptional instruments!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d0af51-efa5-4804-8321-dbd8f2ea48cf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31c87aae-9fc3-443c-ba1a-db058f161daf.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8bd6412-b6ac-4998-9c12-d4dd85e40a05.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e93580f2b1752d13790bcd7b2b8784f54ac459.jpg)
