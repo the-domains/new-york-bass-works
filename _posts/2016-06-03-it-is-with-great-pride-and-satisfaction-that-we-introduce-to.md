@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-25T02:39:00.485Z'
+datePublished: '2016-08-25T02:42:15.878Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-25T02:39:00.114Z'
+dateModified: '2016-08-25T02:42:15.387Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -121,8 +121,6 @@ Brian
 Sales: beezelite@gmail.com ph\# 917-601-1966
 
 General info: nybw@aol.com ph\# 516-799-5160
-
-https://www.facebook.com/New-York-Bass-Works-332385705576/
 
 please contact to make an appointment
 
