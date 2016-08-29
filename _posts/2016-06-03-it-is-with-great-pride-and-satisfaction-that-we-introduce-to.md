@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T22:06:55.232Z'
+datePublished: '2016-08-27T22:09:50.863Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T22:06:54.811Z'
+dateModified: '2016-08-27T22:09:36.891Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -35,9 +35,7 @@ Not one to concentrate solely on the sound of the instrument, David has made the
 These are just a few of the many considerations making up the Reference Series Basses, and we look forward to sharing more in the very near future. We are excited as we move forward with the roll out, and begin receiving feedback from our clients who anxiously await their Reference Series basses.
 
 As always, thank you all for your continued interest and dedication over the years, we really appreciate your support!
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/22c207b5e90981597b74d10ad33048fc/croprotate.jpg?cropheight=2765&cropwidth=5696&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8f7c98d6-ec4a-4b09-a7b5-bfc2e891a9f8.jpg&x=0&y=0)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2112e691-0302-48be-a7b7-23d37a4ef680.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19cc7a30-fea6-48a6-8dd2-85565bef7a9a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/abe1f0697c0384deac5339d8564d1f3f72503aed.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01afdcb7-c1d1-4937-8551-269093a52299.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/514a49bcec12b8e8f93c8d557d967178eca160db.jpg)
 
