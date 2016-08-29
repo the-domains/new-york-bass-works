@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T20:43:08.452Z'
+datePublished: '2016-08-27T20:48:28.836Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T20:43:07.786Z'
+dateModified: '2016-08-27T20:48:28.059Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -68,7 +68,8 @@ Cremona and Osprey models will be available on a first come first serve basis. T
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15e93580f2b1752d13790bcd7b2b8784f54ac459.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c4623cd-d262-4406-96d6-8fc878bbdf6d.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6688b8e5-ce43-4ca7-a98a-668dda8e60bd.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/97631fae-5be3-42aa-af3e-8e9a8c7546e6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/748e6d84-35d4-4d2c-9bd1-90393cdcb40d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0fd6efa6-2355-487d-a580-7e7e8969086a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0aa26b25-2e50-410c-b200-37ca6229ba5e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/35cea095-270d-495a-9214-f532d23ee869.jpg)
 
