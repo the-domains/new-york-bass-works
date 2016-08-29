@@ -24,5 +24,8 @@ navigation:
   - name: Contact us
     id: 54897aea-ee6e-411a-a514-4d33ef2ac04a
     type: content
+  - name: Models
+    id: 0100e19b-f423-4f7d-a669-cd63311d9494
+    type: content
 title: 'New York Bass Works '
 description: The threshold of your instrument should be just beyond your grasp!
