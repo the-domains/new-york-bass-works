@@ -1,4 +1,3 @@
-layout_spectrum: 0.19525923230685294
 typography_spectrum: 0.6568774008192122
 color:
   brandStrength: 0.8669764951337129
@@ -11,6 +10,7 @@ color:
     - '#D8C9C2'
     - '#996A3C'
     - '#3F1C08'
+layout_spectrum: 0.19525923230685294
 analytics:
   facebook: '212457149155465'
 author:
@@ -20,6 +20,9 @@ name: New York Bass Works LLC
 navigation:
   - name: About Us
     id: eb391c06-531f-4850-985a-e61e676cb33c
+    type: content
+  - name: Contact us
+    id: 54897aea-ee6e-411a-a514-4d33ef2ac04a
     type: content
 title: 'New York Bass Works '
 description: The threshold of your instrument should be just beyond your grasp!
