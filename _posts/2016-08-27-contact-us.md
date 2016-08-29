@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-27T21:02:42.813Z'
+datePublished: '2016-08-27T21:03:40.153Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T21:01:36.153Z'
+dateModified: '2016-08-27T21:03:39.865Z'
 title: Contact us
 publisher: {}
 description: 'Email: Reference Series instruments  beezelite@gmail.com'
-starred: false
 sourcePath: _posts/2016-08-27-contact-us.md
-_type: Blurb
+hasPage: true
+starred: false
+url: contact-us/index.html
+_type: Article
 
 ---
 # Contact us
