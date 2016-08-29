@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T21:52:00.702Z'
+datePublished: '2016-08-27T22:02:40.569Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-27T21:52:00.085Z'
+dateModified: '2016-08-27T22:01:05.267Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
@@ -36,9 +36,9 @@ These are just a few of the many considerations making up the Reference Series B
 
 As always, thank you all for your continued interest and dedication over the years, we really appreciate your support!
 ![New York Bass Works RS5  Natural  Ash/Maple 34.5" scale ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72ba7078a30c92d9053630ebb419efc0dfcae8b8.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/084d4a16828099ab339677b376b5fdfdda699c46.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c00d4295-3fb9-448c-b2e8-9547dca20553.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea22d0d7-ab51-48f2-be3b-a313b2bf6312.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f7c98d6-ec4a-4b09-a7b5-bfc2e891a9f8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2112e691-0302-48be-a7b7-23d37a4ef680.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/19cc7a30-fea6-48a6-8dd2-85565bef7a9a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01afdcb7-c1d1-4937-8551-269093a52299.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/514a49bcec12b8e8f93c8d557d967178eca160db.jpg)
 
