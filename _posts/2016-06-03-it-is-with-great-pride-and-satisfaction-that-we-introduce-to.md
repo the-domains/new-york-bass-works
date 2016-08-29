@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T22:02:40.569Z'
+datePublished: '2016-08-27T22:02:41.143Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
