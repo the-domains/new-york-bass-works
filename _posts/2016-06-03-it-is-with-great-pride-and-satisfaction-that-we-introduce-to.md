@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T21:45:51.820Z'
+datePublished: '2016-09-02T21:49:15.604Z'
 sourcePath: >-
   _posts/2016-06-03-it-is-with-great-pride-and-satisfaction-that-we-introduce-to.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T21:45:37.424Z'
+dateModified: '2016-09-02T21:49:15.000Z'
 title: Paradigm Shift
 publisher: {}
 description: >-
